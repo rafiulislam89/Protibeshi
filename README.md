@@ -1,5 +1,5 @@
-# Protybeshi
-Protybeshi is an innovative online borrowing and lending platform designed to foster a community of sharing and collaboration. Our platform connects users who have items they are willing to lend with those who need to borrow them, facilitating a seamless exchange process that benefits both parties.
+# Protibeshi
+Protibeshi is an innovative online borrowing and lending platform designed to foster a community of sharing and collaboration. Our platform connects users who have items they are willing to lend with those who need to borrow them, facilitating a seamless exchange process that benefits both parties.
 
 ## Vision
 1.We aim to reduce waste and minimise the environmental impact of production and consumption.
